@@ -4,6 +4,10 @@
    box-sizing: 0;
    font-family: 'Poppins', sans-serif;
  }
+
+ .flex{
+    display: flex;
+ }
  
  body{
      background: #000000;
@@ -217,8 +221,8 @@ header nav ul li {
      
  }
  
- section.sobre.flex{
-     align-itens: center;
+ section.sobre.flex{ 
+     align-items: center;
      gap: 60px;
  }
  
